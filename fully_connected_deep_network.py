@@ -17,7 +17,7 @@ col1, col2, col3, col4, col5, col6, col7, col8, col9, col10, col11, col12, col13
 features = tf.stack([col1, col2, col3, col4, col5, col6, col7, col8, col9, col10, col11, col12, col13, col14, col15,
                          col16, col17, col18, col19, col20, col21, col22])
 labels = tf.stack([col23, col24, col25, col26])
-# 以上几句代码写的异常暴力，可以用生成器表达式写的非常优雅，机器学习里头，开发速度最重要，要什么自行车...
+# 以上几句代码写的异常暴力，可以用生成器表达式写的非常优雅，但是现在是在机器学习里头，要什么自行车...
 
 
 def weight_varible(shape):
