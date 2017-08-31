@@ -11,7 +11,7 @@
 ---
 ### 2017-08-05 更新 spectrum_conv/transform.py
 ##### 读取.wav音频文件，利用短时傅里叶变换生成频谱图
----
-### 2017-08-31 更新 spectrum_conv/spec_cnn.py
+### 2017-08-31 更新 spectrum_conv/spec_cnn.py & test.py
 ##### 使用卷积神经网络对生成的频谱图进行分类
+##### 对训练好的卷积神经网络在训练集上进行测试，查看识别率
 ---
