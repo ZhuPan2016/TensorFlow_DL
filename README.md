@@ -19,4 +19,9 @@
 
 ![](https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/spec_conv_train.png)
 
+相同的网络结构，将数据分成测试集和训练集进行测试
+识别结果：
+
+![](https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/spec_conv_tg_rain.png)
+
 ---
