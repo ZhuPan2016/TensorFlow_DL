@@ -14,4 +14,7 @@
 ### 2017-08-31 更新 spectrum_conv/spec_cnn.py & test.py
 ##### 使用卷积神经网络对生成的频谱图进行分类
 ##### 对训练好的卷积神经网络在训练集上进行测试，查看识别率
+
+识别结果：
+![](http://ww1.sinaimg.cn/large/dde48558ly1fj2swq9onfj20ko09daav.jpg)
 ---
