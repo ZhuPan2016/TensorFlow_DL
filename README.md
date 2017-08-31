@@ -16,5 +16,5 @@
 ##### 对训练好的卷积神经网络在训练集上进行测试，查看识别率
 
 识别结果：
-![](http://ww1.sinaimg.cn/large/dde48558ly1fj2swq9onfj20ko09daav.jpg)
----
+![](https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/spec_conv_train.png)
+
