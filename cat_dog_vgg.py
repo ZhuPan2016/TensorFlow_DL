@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
-file_dir = 'D:\\Downloads\\dataset_kaggledogvscat\\train\\'  # 链接: https://pan.baidu.com/s/1i4De02x 密码: hcm4
+file_dir = '/content/Cats_vs_Dogs/data/train/'  
 
 label_list = []
 image_list = []
