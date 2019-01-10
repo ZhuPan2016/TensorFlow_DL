@@ -33,7 +33,7 @@ image = tf.image.resize_images(image, (224, 224), tf.image.ResizeMethod.BICUBIC)
 # data argumentation should go to here
 ######################################
 image_batch, label_batch = tf.train.shuffle_batch([image, label],
-                                                batch_size=100,
+                                                batch_size=30,
                                                 num_threads=64,
                                                 capacity=2000,
                                                 min_after_dequeue=2000 - 1)
